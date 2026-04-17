@@ -22,7 +22,7 @@ Este repositorio contiene la implementación de un pipeline de reconocimiento fa
 
 ## Resultados
 - **Exactitud (Accuracy):** ~11.7%
-- **Análisis Técnico:** Se identificó que la representación de los targets mediante *One-Hot Encoding* es el limitante principal frente al uso del *Símplex Regular en $\mathbb{R}^9$* sugerido teóricamente.
+- **Análisis Técnico:** Se identificó que la representación de los targets mediante *One-Hot Encoding* es el limitante principal frente al uso del *Símplex Regular sugerido teóricamente.
 
 ## Cómo ejecutar
 1. Clona este repositorio:
